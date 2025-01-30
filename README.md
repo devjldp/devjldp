@@ -1,13 +1,17 @@
-## Hi, I am Jose Dev👋
+# Hi, I am Jose Dev👋
 
-<p align="center">
+<div style="text-align: center;">
   <img src="./images/mainImage.jpeg" alt="Descripción de la imagen" />
-</p>
-<br>
+
+
+
+
+### 🏗️​Civil Engineer | 🧑‍💻 Software Developer
+
+</div>
 
 ## About me:
-
-<p ><bold>Civil Engineer</bold> and <bold>Software Developer</bold> with a passion for teaching. Currently guiding others to learn programming</p>
+<p ><b>Civil Engineer</b> and <b>Software Developer</b> with a passion for teaching. Currently guiding others to learn programming</p>
 
 
 
@@ -16,6 +20,9 @@
 * 👯 I’m looking to collaborate on open source projects.  
 
 My New Year's resolution was to improve my contributions on GitHub, and I think it's time to fulfill it.
+
+---
+
 
 <!--
 **devjldp/devjldp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
