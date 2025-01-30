@@ -1,7 +1,7 @@
 # Hi, I am Jose Dev👋
 
 <div style="text-align: center;">
-  <img src="./images/mainImage.jpeg" alt="Descripción de la imagen" />
+  <img src="./images/mainImage.jpeg" alt="Main image" />
 
 
 
