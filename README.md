@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I am Jose Dev👋
+
+<p align="center">
+  <img src="./images/mainImage.jpeg" alt="Descripción de la imagen" />
+</p>
+<div>
+<p>Civil Engineer and Software Developer with a passion for teaching. Currently guiding others to learn programming and bridging the gap between engineering and technology through coding.</p>
+</div>
+
+
 
 <!--
 **devjldp/devjldp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
