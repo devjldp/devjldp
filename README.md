@@ -1,6 +1,6 @@
 # Hi, I am Jose Dev👋
 
-<div style="text-align: center;">
+
   <img src="./images/mainImage.jpeg" alt="Main image" />
 
 
@@ -14,10 +14,12 @@
 <p ><b>Civil Engineer</b> and <b>Software Developer</b> with a passion for teaching. Currently guiding others to learn programming</p>
 
 
-
-* 🔭 . Net enthusiast
-* 🌱 I’m currently learning .Net
-* 👯 I’m looking to collaborate on open source projects.  
+* 🔭 . Net enthusiast  
+* 🌱 I’m currently learning .Net  
+* 👯 I’m looking to collaborate on open source projects.    
+* 🚀 My next big projects are:  
+    * 🌠 Create a course to teach C# using Github  
+    * 🌠 Create and Finish BlackOut Pirates (Definitive version)  
 
 My New Year's resolution was to improve my contributions on GitHub, and I think it's time to fulfill it.
 
